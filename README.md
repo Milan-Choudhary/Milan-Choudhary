@@ -114,14 +114,6 @@ Coursework, assignments, and educational explorations
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milan-Choudhary&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Milan-Choudhary&layout=compact&theme=radical)
-
----
-
 ## 🔗 Let's Connect!
 
 I'm always open to:
